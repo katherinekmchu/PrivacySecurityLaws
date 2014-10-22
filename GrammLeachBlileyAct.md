@@ -10,9 +10,12 @@ PRIVACY RULE
 Introduction
 ```
 Title V, Subtitle A of the GLBA governs the treatment of nonpublic personal information about consumers by financial institutions. 
--*Section 502* of the Subtitle, subject to certain exceptions, prohibits a financial institution from disclosing nonpublic personal info (NPI) about a consumer to nonaffiliated third parties, unless the institution satisfies various notice and opt-out requirements, and provided that the consumer has not elected to opt out of the disclosure. 
--*Section 503* requires the institution to provide notice of its privacy policies and practices to its customers.
--*Section 504* authorizes the issuance of regulations to impelemt these provisions.
+
+*Section 502* of the Subtitle, subject to certain exceptions, prohibits a financial institution from disclosing nonpublic personal info (NPI) about a consumer to nonaffiliated third parties, unless the institution satisfies various notice and opt-out requirements, and provided that the consumer has not elected to opt out of the disclosure. 
+
+*Section 503* requires the institution to provide notice of its privacy policies and practices to its customers.
+
+*Section 504* authorizes the issuance of regulations to impelemt these provisions.
 
 In 2000, the four federal banking agencies and the National Credit Union Administration ("NCUA") published regulations implementing provisions of the GLBA governing the treatment of NPI. The regulations can be summarized as follows:
 - A financial institution must provide a notice of its privacy policies, and allow the consumer to opt out of the disclosure of the consumer's nonpublic personal information, to a nonaffiliated third party if the disclosure is outside of the exceptions in section 13, 14 or 15 of the regulations. 
