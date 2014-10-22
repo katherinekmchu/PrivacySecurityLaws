@@ -9,14 +9,25 @@ PRIVACY RULE
 ```
 Introduction
 ```
-Title V, Subtitle A of the GLBA governs the treatment of nonpublic personal information about consumers by financial institutions. 
+Title V, Subtitle A of the GLBA governs the treatment of Nonpublic Personal Information ("NPI") about consumers by financial institutions. 
 
-*Section 502* of the Subtitle, subject to certain exceptions, prohibits a financial institution from disclosing nonpublic personal info (NPI) about a consumer to nonaffiliated third parties, unless the institution satisfies various notice and opt-out requirements, and provided that the consumer has not elected to opt out of the disclosure. 
+NPI is... 
+
+*Section 502* of the Subtitle, subject to certain exceptions, prohibits a financial institution from disclosing NPI about a consumer to nonaffiliated third parties, unless the institution satisfies various notice and opt-out requirements, and provided that the consumer has not elected to opt out of the disclosure. 
 
 *Section 503* requires the institution to provide notice of its privacy policies and practices to its customers.
 
 *Section 504* authorizes the issuance of regulations to impelemt these provisions.
 
+```
+Who is Covered
+```
+-Financial Institutions: any institution the business of which is engaging in activities that are financial in nature or incidental to such financial activities, as determined by section 4(k) of the Bank Holding Company Act of 1956; or
+-If you receive NPI from a Financial Institution with which you are not affiliated with
+
+```
+What the Law Requires
+```
 In 2000, the four federal banking agencies and the National Credit Union Administration ("NCUA") published regulations implementing provisions of the GLBA governing the treatment of NPI. The regulations can be summarized as follows:
 - A financial institution must provide a notice of its privacy policies, and allow the consumer to opt out of the disclosure of the consumer's nonpublic personal information, to a nonaffiliated third party if the disclosure is outside of the exceptions in section 13, 14 or 15 of the regulations. 
 - Regardless of whether a financial institution shares NPI, the institution must provide notices of its privacy policies to its customers. 
@@ -26,18 +37,11 @@ In 2000, the four federal banking agencies and the National Credit Union Adminis
 In 2009, a model privacy notice form was published in which financial institutions may use to receive a safe harbor in compliance with the notice requirements. 
 
 ```
-Who is Covered
-```
-
-
-```
-What the Law Requires
-```
-
-```
 How to Comply
 ```
-
+- Notice Duties to Customers 
+- Requirements for Notices
+- 
 
 SAFEGUARD RULE 
 --------------
