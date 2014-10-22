@@ -52,10 +52,12 @@ How to Comply
 - Safe Harbor: [The Model Privacy Notice Form](http://www.ftc.gov/sites/default/files/documents/rules/privacy-consumer-financial-information-financial-privacy-rule/model_form_rule_a_small_entity_compliance_guide.pdf) can be used by institutions to comply with their notice requirements. To obtain the safe harbor, the institution must provide a model form in accordance with the instructions as set forth in each federal banking agency's privacy regulation. 
 
 - Redisclosure and Reuse Limitations:  Redisclosure and reuse of NPI received by financial institution is limited. 
+
 *For NPI received under Section 14 or 15 exceptions, the institution is limited to:
 - Disclosing the info to the affiliates of the financial institution from which it received the info; 
 - Disclosing the info to its own affiliates, who may, in turn, disclose and use the info only to the extent that the institution can do so; and 
 - disclosing and using the info pursuant to a section 14 or 15 exception (example - an institution receiving information for account processing could disclose the info to its auditors). 
+
 *For NPI received other than under Section 14 and 15, the recipients use is unlimited but disclosure is limited to:
 - Disclosing the info to the affiliates of the institution from which it received the info; 
 - Disclosing the info to its own affiliates, who may in turn disclose the info only to the extent the institution can do so; and
