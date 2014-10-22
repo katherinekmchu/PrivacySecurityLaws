@@ -22,8 +22,8 @@ NPI is...
 ```
 Who is Covered
 ```
--Financial Institutions: any institution the business of which is engaging in activities that are financial in nature or incidental to such financial activities, as determined by section 4(k) of the Bank Holding Company Act of 1956; or
--If you receive NPI from a Financial Institution with which you are not affiliated with
+- Financial Institutions: any institution the business of which is engaging in activities that are financial in nature or incidental to such financial activities, as determined by section 4(k) of the Bank Holding Company Act of 1956; or
+- If you receive NPI from a Financial Institution with which you are not affiliated with
 
 ```
 What the Law Requires
@@ -41,7 +41,7 @@ How to Comply
 ```
 - Notice Duties to Customers 
 - Requirements for Notices
-- 
+
 
 SAFEGUARD RULE 
 --------------
