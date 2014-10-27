@@ -22,3 +22,35 @@ There are a few exceptions to this rule:
 6. For a officer, employee or agent of the US in the normal course of his official duty as defined in Section 101 of the Foreign Intelligence Surveillance Act of 1978, as authorized by the act 
 
 >Stored Communications Act
+The SCA is a law that addresses voluntary and compelled disclosure of 'stored wire and electronic communications and transactional records' held by third party internet service providers (ISPs). 
+
+*Section 2701* Prohibits anyone from intentionally accessing, without authorization, a facility through which an electronic communication service is provided or intentionally exceeds authorization to access that facility, and thereby obtains, alters, or prevents authorized access to a wire or electronic communication while it is in electronic storage in such system 
+
+*Section 2702* prohibits a person or entity providing electronic communications or person or entity providing remote computing service to knowingly divulge to any person or entity the contents of the communication while in electronic storage by that service or any communication which is carried or maintained on that service. The section also prohibits a provider of remote computing service or electronic communication service to the public to divulge a record or other information pertaining to a subscriber to or customer of such service to any govt entity.
+
+There are several exceptions under 2702:
+- Exceptions for Disclosure of Communications - A provider my divulge contents of a communication - 
+1. to an addressee or intended recipient of such communicatioin or an agent of such addressee or intended recipient; 
+
+2. as otherwise authorized in Section 2517, 2511(2)(a) or 2703 of this title; 
+
+3. with the lawful consent of the originator or an addressee or intended recipient of such communication, or the subscriber in the case of remote computing service;
+
+4. to a person employed or authorized or whose facilities are used to forward such communication to its destination; 
+
+5. as may be necessarily incident to the rendition of the service or to the protection of the rights or property of the provider of that service; 
+
+6. to the national center for missing and exploited children, in connection with a report submitted under Section 2258A
+
+7. to a law enforcement agency if the contents were inadvertently obtained by the service provider and appear to pertain to the commission of a crime or 
+
+8. to a govt entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency
+
+- Exceptions for Disclosure of Customer Rercords 
+A provider described in subsection (a) may divulge a record or other info pertaining to a subscriber to or customer of such service (not including contents of communications covered by subsection (a)(1) or (a)(2) -
+1. as otherwise authorized in section 2703
+2. with the lawful consent of the customer or subscriber
+3. as may be necessarily incident to the rendition of the service/ protect rights or property of the provider;
+4. to a govt entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of info relating to the emergency; 
+5. to the national center for missing and exploited children ... 
+6. to any person other than a govt entity 
