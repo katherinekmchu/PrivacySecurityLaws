@@ -29,7 +29,8 @@ The SCA is a law that addresses voluntary and compelled disclosure of 'stored wi
 *Section 2702* prohibits a person or entity providing electronic communications or person or entity providing remote computing service to knowingly divulge to any person or entity the contents of the communication while in electronic storage by that service or any communication which is carried or maintained on that service. The section also prohibits a provider of remote computing service or electronic communication service to the public to divulge a record or other information pertaining to a subscriber to or customer of such service to any govt entity.
 
 There are several exceptions under 2702:
-- Exceptions for Disclosure of Communications - A provider my divulge contents of a communication - 
+- Exceptions for Disclosure of Communications - A provider my divulge contents of a communication
+
 1. to an addressee or intended recipient of such communicatioin or an agent of such addressee or intended recipient; 
 
 2. as otherwise authorized in Section 2517, 2511(2)(a) or 2703 of this title; 
@@ -47,10 +48,17 @@ There are several exceptions under 2702:
 8. to a govt entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of communications relating to the emergency
 
 - Exceptions for Disclosure of Customer Rercords 
-A provider described in subsection (a) may divulge a record or other info pertaining to a subscriber to or customer of such service (not including contents of communications covered by subsection (a)(1) or (a)(2) -
+
+A provider described in subsection (a) may divulge a record or other info pertaining to a subscriber to or customer of such service (not including contents of communications covered by subsection (a)(1) or (a)(2) 
+
 1. as otherwise authorized in section 2703
+
 2. with the lawful consent of the customer or subscriber
+
 3. as may be necessarily incident to the rendition of the service/ protect rights or property of the provider;
-4. to a govt entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of info relating to the emergency; 
+
+4. to a govt entity, if the provider, in good faith, believes that an emergency involving danger of death or serious physical injury to any person requires disclosure without delay of info relating to the emergency;
+
 5. to the national center for missing and exploited children ... 
+
 6. to any person other than a govt entity 
